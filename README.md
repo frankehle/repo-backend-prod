@@ -1,2 +1,2 @@
-# repo-backend-prod
-Code for learning Terraform GitHub repo creation in python the environment
+# This is a prod python respository for backend development. 
+Modified by: frankehle
